@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Company-profile",
+			"path": ".."
+		},
+		{
+			"name": "satya",
+			"path": "../.."
+		},
+		{
+			"name": "PHP_FIRST",
+			"path": "../../../../Applications/XAMPP/xamppfiles/htdocs/PHP_FIRST"
+		}
+	],
+	"settings": {}
+}
